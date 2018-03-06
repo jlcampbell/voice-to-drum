@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Drum</string>
+
+    <!--sound resources-->
+    <string name="priority_kick">1</string>
+    <string name="priority_snare">2</string>
+
+
+</resources>
