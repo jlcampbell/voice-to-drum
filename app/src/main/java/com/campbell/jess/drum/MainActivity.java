@@ -71,7 +71,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.btn_submit_text:
                 Log.v(TAG_MAIN, "submit");
                 String userSubText = (String) mEditText.getText().toString();
-                mTextView.setText(userSubText);
+                mEditText.setText(userSubText);
                 mWords = splitWords(userSubText);
                 new SoundPoolAsyncTask().execute(mWords);
         }

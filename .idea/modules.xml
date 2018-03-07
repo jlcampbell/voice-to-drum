@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Drum.iml" filepath="$PROJECT_DIR$/Drum.iml" />
+      <module fileurl="file://D:\personal projects\drum\voice-to-drum\Drum.iml" filepath="D:\personal projects\drum\voice-to-drum\Drum.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\personal projects\drum\voice-to-drum\app\app.iml" filepath="D:\personal projects\drum\voice-to-drum\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/voice-to-drum.iml" filepath="$PROJECT_DIR$/voice-to-drum.iml" />
     </modules>
   </component>
 </project>
